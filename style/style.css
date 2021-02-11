@@ -1,0 +1,17 @@
+.right{
+    float: right !important;
+    text-align: right !important;
+    margin-right:0% !important ;
+}
+.navbar-expand-lg{
+    background-color: rgb(224, 131, 131) !important;
+}
+.height_image{
+    height: 100px !important;
+}
+.information{
+    width: 50%;
+    height: 100px;
+    margin: 5% auto;
+    display: inline-block;
+}
